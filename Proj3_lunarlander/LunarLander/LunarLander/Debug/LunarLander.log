@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\neopa\source\repos\LunarLander\LunarLander\main.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\neopa\source\repos\LunarLander\LunarLander\main.cpp(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\neopa\source\repos\LunarLander\LunarLander\LunarRover.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  LunarLander.vcxproj -> C:\Users\neopa\source\repos\LunarLander\Debug\MainGame.exe
